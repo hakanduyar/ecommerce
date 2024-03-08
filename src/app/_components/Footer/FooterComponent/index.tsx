@@ -8,7 +8,6 @@ import { Gutter } from '../../Gutter'
 import Image from 'next/image'
 import Link from 'next/link'
 import { Footer, Media } from '../../../../payload/payload-types'
-import { profile } from 'console'
 import { Button } from '../../Button'
 
 const FooterComponent = ({ footer }: { footer: Footer }) => {
